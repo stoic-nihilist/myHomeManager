@@ -37,11 +37,13 @@
 #	simplex-chat-desktop
 #	telegram-desktop
 	fragments
+	vscodium
 	jdk
 	dotnet-sdk_11
 	gcc
 	cmake
 	gnumake
+	veracrypt
 #	chatgpt	
 #	spotify
 	thunderbird
