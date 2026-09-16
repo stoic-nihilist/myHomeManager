@@ -20,7 +20,7 @@
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
     in {
-      homeConfigurations.kaiguaaaa = home-manager.lib.homeManagerConfiguration {
+      homeConfigurations.jeffreyyyy = home-manager.lib.homeManagerConfiguration {
         inherit pkgs;
 	extraSpecialArgs = { inherit inputs; };
         modules = [ ./home.nix ];
