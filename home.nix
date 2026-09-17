@@ -44,9 +44,13 @@
 	cmake
 	gnumake
 	veracrypt
+	whatsie
 #	chatgpt	
 #	spotify
 	thunderbird
 	opencode
+	whatsie
+	qbittorrent
+	gpu-screen-recorder
   ];
 }
